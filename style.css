@@ -1,0 +1,16 @@
+*
+{
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	background-color: #101010;
+}
+
+canvas
+{
+	position: fixed;
+	top: calc((100vh - 50vw) / 2);
+	width: 100vw;
+	height: 50vw;
+	background-color: black;
+}
